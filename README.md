@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matheus Mazeto. I'm a Brazilian Software Engineer living in Brazil.
+My name is Matheus Mazeto. I'm a Brazilian Software Engineer.
 
 ## 📫 Social Media
 
