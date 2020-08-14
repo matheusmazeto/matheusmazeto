@@ -10,4 +10,4 @@ My name is Matheus Mazeto. I'm a Brazilian Software Engineer.
 
 ### 🌱  Learning and Development
 
-On my free time, I've been studying a lot of Front-end ecosystem with React and React Native by reading lectures, creating personal projects and I like practicing algorithms and data structures through challenges.
+On my free time, I've been studying a lot of Front-end ecosystem with React by reading lectures, creating personal projects and I like practicing algorithms and data structures through challenges.
