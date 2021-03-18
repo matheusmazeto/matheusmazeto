@@ -1,13 +1,12 @@
-### Hi there 👋
+### Hi! 👋
 
-My name is Matheus Mazeto. I'm a Brazilian Software Engineer.
+My name is Matheus Mazeto. I'm a Software Engineer.
+
+Most of my professional experience is on front-end and mobile development.
+
+The technologies I'm most interested in are: JavaScript/TypeScript and React/React Native.
 
 ## 📫 Social Media
 
  - Linkedin: https://www.linkedin.com/in/matheusmazeto/
  - Twitter: https://twitter.com/mazeto
- - Github: https://github.com/matheusmazeto
-
-## 🌱  Learning and Development
-
-On my free time, I've been studying a lot of Front-end ecosystem with React by reading lectures, creating personal projects and I like practicing algorithms and data structures through challenges.
