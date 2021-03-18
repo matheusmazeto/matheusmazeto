@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Matheus Mazeto. I'm a Software Engineer.
+My name is Matheus Mazeto and I'm a Software Engineer.
 
 Most of my professional experience is on front-end and mobile development.
 
