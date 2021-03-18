@@ -6,7 +6,7 @@ Most of my professional experience is on front-end and mobile development.
 
 The technologies I'm most interested in are: JavaScript/TypeScript and React/React Native.
 
-### 📫 Social Media
+### Where to find me
 
  - Linkedin: https://www.linkedin.com/in/matheusmazeto/
  - Twitter: https://twitter.com/mazeto
