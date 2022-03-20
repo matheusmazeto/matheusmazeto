@@ -1,12 +1,7 @@
-### Hi! 👋
-
-My name is Matheus Mazeto and I'm a Software Engineer.
-
-Most of my professional experience is on frontend and mobile development.
-
-The technologies I'm most interested in are: JavaScript/TypeScript and React/React Native.
-
-### Where to find me
-
- - Linkedin: https://www.linkedin.com/in/matheusmazeto/
- - Twitter: https://twitter.com/mazeto
+<p align="center">
+  <samp>
+    <a href="https://www.matheusmazeto.com/">personal webstie</a> .  
+    <a href="https://twitter.com/matheusmazeto">twitter</a> .
+    <a href="https://www.linkedin.com/in/matheusmazeto/">linkedin</a> .
+  </samp>
+</p>
